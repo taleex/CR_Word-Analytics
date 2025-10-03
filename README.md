@@ -2,7 +2,7 @@
 
 A modern, interactive word analysis app built with React and Next.js.
 
-preview: https://taleex.github.io/Word-Analytics/
+preview: [https://taleex.github.io/Word-Analytics/](https://taleex-word-analytics.netlify.app/)
 
 ---
 
